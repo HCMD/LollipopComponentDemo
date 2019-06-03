@@ -1,1 +1,1 @@
-include ':app', ':listcomponent'
+include ':app', ':listcomponent', ':detailcomponent', ':basecomponent', ':componentservice'

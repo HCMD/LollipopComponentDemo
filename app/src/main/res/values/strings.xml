@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LollipopComponentDemo</string>
+    <string name="list">LIST</string>
+    <string name="detail">DETAIL</string>
 </resources>
